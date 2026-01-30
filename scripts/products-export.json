@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Tapete Universal",
+    "category": "accesorios",
+    "price": 45000,
+    "description": "Tapete universal de alta calidad para todo tipo de vehículos",
+    "image": "/car-floor-mat.jpg",
+    "stock": 15
+  },
+  {
+    "name": "Organizador de Maletero",
+    "category": "accesorios",
+    "price": 35000,
+    "description": "Organizador plegable para mantener tu maletero ordenado",
+    "image": "/car-trunk-organizer.jpg",
+    "stock": 20
+  },
+  {
+    "name": "Aceite Motor 5W-30",
+    "category": "lubricantes",
+    "price": 85000,
+    "description": "Aceite sintético premium para motor",
+    "image": "/motor-oil-bottle.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Batería 65 AH",
+    "category": "baterias",
+    "price": 450000,
+    "description": "Batería de alto rendimiento libre de mantenimiento",
+    "image": "/placeholder.svg",
+    "stock": 8
+  },
+  {
+    "name": "Pastillas Freno Delanteras",
+    "category": "frenos",
+    "price": 125000,
+    "description": "Pastillas de alto desempeño para frenos delanteros",
+    "image": "/placeholder.svg",
+    "stock": 20
+  }
+]
