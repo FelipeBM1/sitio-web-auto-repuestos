@@ -5,7 +5,8 @@ export function ContactSection() {
   const address =
     "Avenida Mauricio Báez, no.28, Cotuí, provincia Sánchez Ramírez, República Dominicana"
 
-  const mapEmbedSrc = `https://www.google.com/maps?q=${encodeURIComponent(address)}&output=embed`
+  const placeForMap = "Auto Repuestos Carlos, 3V62+J54, Cotuí 43000, República Dominicana"
+  const mapEmbedSrc = `https://www.google.com/maps?q=${encodeURIComponent(placeForMap)}&output=embed`
 
   return (
     <section className="py-20 px-4 md:px-8">
